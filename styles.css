@@ -4,7 +4,7 @@ body {
   max-width: 1950px;
   background-color: hsl(47, 88%, 63%);
   font-family: "Figtree";
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .container {
